@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="welcome">Welcome To Hello</string>
+    <string name="realtime">A Realtime Messaging App</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="signin">Sign In</string>
+    <string name="signup">Sign Up</string>
+    <string name="logout">Logout</string>
+    <string name="forget">Forget Password</string>
+</resources>
